@@ -39,11 +39,12 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Marcos-VC&show_icons=true&theme=radial&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Marcos-VC&layout=compact&theme=radial&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Marcos-VC&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="165" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Marcos-VC&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&card_width=400" height="165" alt="Top Languages" />
 </p>
 
 ---
