@@ -39,11 +39,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcos-VC&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-VC&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcos-VC&theme=react-dark&hide_border=true" width="98%" alt="Activity Graph" />
 </p>
 
 ---
@@ -53,5 +52,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/marcos-vidal-castillo-2ab237445"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:marcosvicas2006@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:m.vidalc.2024@alumnos.urjc.es"><img src="https://img.shields.io/badge/Academic_Email-003366?style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
+  <a href="mailto:m.vidal.2021@alumnos.urjc.es"><img src="https://img.shields.io/badge/URJC_Email-C8102E?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
 </p>
