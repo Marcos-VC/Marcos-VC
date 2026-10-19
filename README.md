@@ -1,9 +1,8 @@
-# Hi there! I'm Marcos 👋
+# 👨‍💻 Marcos | Computer & Software Engineering Student
 
 🎓 **3rd-year Dual Degree Student in Computer Engineering & Software Engineering** at Universidad Rey Juan Carlos (Madrid, Spain).
 - 🛡️ Passionate about **Cybersecurity** and **Software Development**.
 - 🐧 Daily **Linux (Ubuntu & Kali Linux)** user with a C/Bash-focused development environment.
-- 🚀 Currently working on software projects using **Docker, Node.js**.
 - 📚 Actively learning **Haskell, Scala, C**, and expanding network knowledge with **Wireshark and Nmap**.
 - 📍 Madrid, Spain.
 
@@ -32,11 +31,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Cybersecurity, DevOps & Tools
+#### Cybersecurity & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
 
@@ -45,12 +42,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=radial&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcos-VC&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-VC&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -58,6 +51,7 @@
 ### 📬 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/marcos-vidal-castillo-2ab237445"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:marcosvicas2006@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:m.vidalc.2024@alumnos.urjc.es"><img src="https://img.shields.io/badge/Academic_Email-003366?style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
 </p>
