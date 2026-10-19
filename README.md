@@ -42,7 +42,8 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcos-VC&theme=react-dark&hide_border=true" width="98%" alt="Activity Graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Marcos-VC&show_icons=true&theme=radial&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Marcos-VC&layout=compact&theme=radial&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 ---
