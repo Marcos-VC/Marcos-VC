@@ -52,5 +52,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/marcos-vidal-castillo-2ab237445"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:marcosvicas2006@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:m.vidal.2021@alumnos.urjc.es"><img src="https://img.shields.io/badge/URJC_Email-C8102E?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+  <a href="mailto:m.vidalc.2024@alumnos.urjc.es"><img src="https://img.shields.io/badge/URJC_Email-C8102E?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
 </p>
